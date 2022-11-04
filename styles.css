@@ -4,3 +4,6 @@ div {
     padding: 50px;
     margin: 20px;
   }
+  body {
+    background-image: url("paper.gif");
+  }
