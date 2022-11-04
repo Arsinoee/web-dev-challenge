@@ -7,3 +7,4 @@ div {
   body {
     background-image: url("paper.gif");
   }
+  p {outline-color:blue;}
