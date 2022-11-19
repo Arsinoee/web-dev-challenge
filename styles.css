@@ -5,6 +5,11 @@ div {
     margin: 20px;
   }
   body {
-    background-image: url("paper.gif");
+    font: normal 16px Arial, Helvetica, sans-serif; 
+
+    line-height:1.6em;
   }
-  p {outline-color:blue;}
+
+  .box-1{
+    background-color: #333;
+  }
