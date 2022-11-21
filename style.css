@@ -24,7 +24,7 @@ body {
     width: 300px;
 }
 #majorBox{
-    background-color: rgba(255, 38, 128, 0.3);
+    background-color: hsla(0, 100%, 57%, 0.302);
     color: white;
     padding: 10px;
     padding-left: 50px;
@@ -40,6 +40,13 @@ body {
     padding-left: 50px;
     padding-right: 50px;
     border: 5px solid white;
-    width: 500px;
+    width: 300px;
     margin-top: 25px
 }
+i{
+    width: 25px;
+    height: 25px;
+    font-size: 18pt;
+    margin-bottom: 20px;
+}
+ 
